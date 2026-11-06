@@ -1,4 +1,4 @@
-# Hey, I'm Adison Kipsang Cheruiyot 👋
+# Hey, I'm Adison Cheruiyot 👋
 
 ## Welcome to my corner of the internet.
 
@@ -26,8 +26,7 @@ I believe the best way to grow as a developer is by building real things.
 **1. Kickverse | Ecommerce Development**
 A live ecommerce platform built for a footwear business. Customers can explore products, browse collections, check pricing, and place orders directly through WhatsApp. I continue working on improvements, maintenance, performance, and new features.
 
-[![Kickverse Preview](<img width="1322" height="699" alt="Image" src="https://github.com/user-attachments/assets/5b29f393-d93d-4cd8-95b3-7eb507789446" />
-)](https://kickverse.co.ke)
+[![Kickverse Preview](https://github.com/user-attachments/assets/5b29f393-d93d-4cd8-95b3-7eb507789446)](https://kickverse.co.ke)
 [🔗 Visit Kickverse](https://kickverse.co.ke)
 
 <br>
@@ -35,8 +34,7 @@ A live ecommerce platform built for a footwear business. Customers can explore p
 **2. AfyaLink | Hospital Management System**
 A hospital management system built with React, Node.js, and PostgreSQL, exploring how software can simplify healthcare administration and information management.
 
-[![AfyaLink Preview](<img width="1322" height="699" alt="Image" src="https://github.com/user-attachments/assets/f7e93989-4eeb-4950-b5fa-e6ddf90e7dee" />
-)](https://afyalink-hms.onrender.com/)
+[![AfyaLink Preview](https://github.com/user-attachments/assets/f7e93989-4eeb-4950-b5fa-e6ddf90e7dee)](https://afyalink-hms.onrender.com/)
 [🔗 View Repository](https://github.com/AdisonDevLabs/afyalink-hospital-management-system)
 
 <br>
