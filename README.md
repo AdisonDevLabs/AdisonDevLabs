@@ -1,71 +1,77 @@
-# hey, i'm adison cheruiyot 👋
+# Hey, I'm Adison Kipsang Cheruiyot 👋
 
-## welcome to my corner of the internet.
+## Welcome to my corner of the internet.
 
 <img src="https://img.shields.io/badge/Full_Stack-Developer-007ACC?style=flat-square"> <img src="https://img.shields.io/badge/Web-Developer-4CAF50?style=flat-square"> <img src="https://img.shields.io/badge/E--commerce-SaaS-FF9800?style=flat-square">
 
-i'm a full stack developer based in kenya, passionate about turning ideas into functional digital products. 
+I'm a full stack developer based in Kenya, passionate about turning ideas into functional digital products. 
 
-i enjoy building things that solve real problems, whether that's an ecommerce platform helping a business reach more customers, a management system simplifying everyday operations, or a web application designed to make someone's work easier.
+I enjoy building things that solve real problems, whether that's an ecommerce platform helping a business reach more customers, a management system simplifying everyday operations, or a web application designed to make someone's work easier.
 
-my approach to software development is simple: understand the problem, build a practical solution, and keep making it better.
+My approach to software development is simple: understand the problem, build a practical solution, and keep making it better.
 
-## 💻 what i work with
+## 💻 What I Work With
 
-i enjoy working across the full stack, from designing user interfaces to building backend systems and managing databases.
+I enjoy working across the full stack, from designing user interfaces to building backend systems and managing databases.
 
-| frontend development | backend development | tools & environment |
+| Frontend Development | Backend Development | Tools & Environment |
 | :---: | :---: | :---: |
 | <br> <img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind&perline=3" /> <br><br> | <br> <img src="https://skillicons.dev/icons?i=nodejs,express,postgres&perline=3" /> <br><br> | <br> <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode&perline=3" /> <br><br> |
-| *javascript, typescript, react.js, vite, tailwind css* | *node.js, express.js, postgresql, rest apis* | *git & github, docker, postman, linux, vs code* |
+| *JavaScript, TypeScript, React.js, Vite, Tailwind CSS* | *Node.js, Express.js, PostgreSQL, REST APIs* | *Git & GitHub, Docker, Postman, Linux, VS Code* |
 
-### 🚀 things i've been building
+### 🚀 Things I've Been Building
 
-i believe the best way to grow as a developer is by building real things.
+I believe the best way to grow as a developer is by building real things.
 
-**1. kickverse | ecommerce development**
-a live ecommerce platform built for a footwear business. customers can explore products, browse collections, check pricing, and place orders directly through whatsapp. i continue working on improvements, maintenance, performance, and new features.
+**1. Kickverse | Ecommerce Development**
+A live ecommerce platform built for a footwear business. Customers can explore products, browse collections, check pricing, and place orders directly through WhatsApp. I continue working on improvements, maintenance, performance, and new features.
 
-[![Kickverse Preview](https://image.thum.io/get/width/700/crop/400/https://kickverse.co.ke/)](https://kickverse.co.ke)
-[🔗 visit kickverse](https://kickverse.co.ke)
-
-<br>
-
-**2. afyalink | hospital management system**
-a hospital management system built with react, node.js, and postgresql, exploring how software can simplify healthcare administration and information management.
-
-[![AfyaLink Preview](https://image.thum.io/get/width/700/crop/400/https://afyalink-hms.onrender.com/)](https://afyalink-hms.onrender.com/)
-[🔗 view repository](https://github.com/AdisonDevLabs/afyalink-hospital-management-system)
+[![Kickverse Preview](<img width="1322" height="699" alt="Image" src="https://github.com/user-attachments/assets/5b29f393-d93d-4cd8-95b3-7eb507789446" />
+)](https://kickverse.co.ke)
+[🔗 Visit Kickverse](https://kickverse.co.ke)
 
 <br>
 
-**3. cargo booking system**
-a web based booking application designed to streamline cargo booking and management workflows.
-[🔗 view repository](#)
+**2. AfyaLink | Hospital Management System**
+A hospital management system built with React, Node.js, and PostgreSQL, exploring how software can simplify healthcare administration and information management.
+
+[![AfyaLink Preview](<img width="1322" height="699" alt="Image" src="https://github.com/user-attachments/assets/f7e93989-4eeb-4950-b5fa-e6ddf90e7dee" />
+)](https://afyalink-hms.onrender.com/)
+[🔗 View Repository](https://github.com/AdisonDevLabs/afyalink-hospital-management-system)
+
+<br>
+
+**3. Cargo Booking System**
+A web based booking application designed to streamline cargo booking and management workflows.
+[🔗 View Repository](#)
 
 ---
 
-### 📊 github activity
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdisonDevLabs&show_icons=true&theme=transparent&hide_border=true" alt="Adison's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdisonDevLabs&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC" alt="Adison's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdisonDevLabs&layout=compact&theme=transparent&hide_border=true&title_color=007ACC" alt="Adison's Top Languages" />
 </p>
 
 ---
 
-### 🤝 let's connect
+### 🤝 Let's Connect
 
-i'm always interested in meeting fellow developers, collaborating on interesting projects, and connecting with businesses looking to build something useful.
+I'm always interested in meeting fellow developers, collaborating on interesting projects, and connecting with businesses looking to build something useful.
 
-- "understand the problem, build a practical solution, and keep making it better."
-- open to collaboration on **ecommerce**, **saas platforms**, and **management tools**.
+- "Understand the problem, build a practical solution, and keep making it better."
+- Open to collaboration on **Ecommerce**, **SaaS Platforms**, and **Management Tools**.
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adisondevlabs) [![Website](https://img.shields.io/badge/WEBSITE-1DA1F2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adisoncheruiyot.me) [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adisondevlabs@gmail.com)
 
 ---
 
 <p align="center">
-  <i>"ideas are everywhere. i enjoy bringing them to life, one project at a time. 🚀" - adison</i>
+  <i>"Ideas are everywhere. I enjoy bringing them to life, one project at a time. 🚀" - Adison</i>
 </p>
 
-> *ideas are everywhere. i enjoy bringing them to life, one project at a time. 🚀*
+> *Ideas are everywhere. I enjoy bringing them to life, one project at a time. 🚀*
