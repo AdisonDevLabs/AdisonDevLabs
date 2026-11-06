@@ -1,41 +1,69 @@
-### Hello there!! I'm Adison Kipsang Cheruiyot 👋
-**Welcome to the digital workspace of AdisonDevLabs**
-   
-I am a dedicated Full-Stack Web Developer based in Nakuru, Kenya, specializing in robust e-commerce platforms, SaaS architectures, and tailored business management systems.
+### hey, i'm adison cheruiyot 👋
 
-**AdisonDevLabs** is my core development approach. It represents performance-driven web engineering: the process of building secure, scalable, and highly accessible applications that empower local and global SMEs. I believe in transforming complex business workflows into seamless, digital-first experiences.
+welcome to my corner of the internet.
 
-### 💻 My Tech Stack
-I am highly specialized in modern web technologies, bridging the gap between dynamic user interfaces and scalable databases.
+i'm a full stack developer based in kenya, passionate about turning ideas into functional digital products. i enjoy building things that solve real problems, whether that's an ecommerce platform helping a business reach more customers, a management system simplifying everyday operations, or a web application designed to make someone's work easier.
 
-| Frontend & Design | Backend & Data | Deployment & Tools |
-| :--- | :--- | :--- |
-| React.js, Next.js | Node.js, PostgreSQL | Cloudflare (Workers, D1, R2) |
-| Tailwind CSS | SQLite3, REST APIs | Vercel, Render |
+my approach to software development is simple: understand the problem, build a practical solution, and keep making it better.
 
-### 🛠️ Featured Builds: "Engineering for the Web"
+### 💻 what i work with
 
-**1. Enterprise E-Commerce & SaaS Platforms**
-Architected **Storxia**, a multi-tenant service-commerce SaaS for SMEs featuring URL-based routing and direct WhatsApp order integrations. I also build bespoke retail storefronts (like Kickverse) optimized for high-performance product browsing and sales.
+i enjoy working across the full stack, from designing user interfaces to building backend systems and managing databases.
 
-**2. AfyaLink Hospital Management System**
-Designed and developed a comprehensive digital healthcare management solution built with Node.js, React, and PostgreSQL to streamline clinical workflows, accountability, and data handling.
+**frontend development**
+- javascript
+- typescript
+- react.js
+- vite
+- tailwind css
 
-**3. Automation & Integrations**
-Where code optimizes business. Built **DataBridge**, a custom Shopify CSV import and pricing engine to automate and simplify inventory management. 
+**backend development**
+- node.js
+- express.js
+- postgresql
+- rest apis
 
-### 📈 GitHub Stats
+**tools & environment**
+- git & github
+- docker
+- postman
+- linux
+- vs code
 
-<!-- You can uncomment the lines below and replace the links with your actual GitHub stats widgets -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdisonDevLabs&show_icons=true&theme=transparent" alt="Adison's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdisonDevLabs&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
+### 🚀 things i've been building
 
-### 🤝 Let's Collaborate
-I am actively seeking freelance opportunities and eager to partner with businesses or developers aiming to build scalable web software.
+i believe the best way to grow as a developer is by building real things.
 
-- *"Building web infrastructure that scales as your business grows."*
-- Open to collaboration on SaaS platforms, e-commerce ecosystems, and specialized management tools.
-  
-*"Engineering the digital storefronts of tomorrow."* — AdisonDevLabs
+**1. kickverse | ecommerce development**
+a live ecommerce platform built for a footwear business. customers can explore products, browse collections, check pricing, and place orders directly through whatsapp. i continue working on improvements, maintenance, performance, and new features.
+[🔗 visit kickverse](https://kickverse.co.ke)
+
+**2. afyalink | hospital management system**
+a hospital management system built with react, node.js, and postgresql, exploring how software can simplify healthcare administration and information management.
+[🔗 view repository](https://github.com/AdisonDevLabs/afyalink-hospital-management-system)
+
+**3. cargo booking system**
+a web based booking application designed to streamline cargo booking and management workflows.
+[🔗 view repository](#) <!-- add your repo link here -->
+
+### 🧰 currently interested in
+
+- building scalable full stack web applications
+- ecommerce and business automation
+- database design and backend architecture
+- creating reusable software products
+- improving application performance and user experience
+- exploring new ideas through hands on development
+
+### 📊 github activity
+<!-- you can add a github contribution graph or stats widget here later if you want -->
+
+### 🤝 let's connect
+
+i'm always interested in meeting fellow developers, collaborating on interesting projects, and connecting with businesses looking to build something useful.
+
+- **portfolio:** [adisoncheruiyot.me](https://adisoncheruiyot.me)
+- **email:** [adisondevlabs@gmail.com](mailto:adisondevlabs@gmail.com)
+- **linkedin:** [in/adisondevlabs](https://linkedin.com/in/adisondevlabs)
+
+*ideas are everywhere. i enjoy bringing them to life, one project at a time. 🚀*
