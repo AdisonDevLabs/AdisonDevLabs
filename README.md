@@ -19,34 +19,53 @@ i enjoy working across the full stack, from designing user interfaces to buildin
 | <br> <img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind&perline=3" /> <br><br> | <br> <img src="https://skillicons.dev/icons?i=nodejs,express,postgres&perline=3" /> <br><br> | <br> <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode&perline=3" /> <br><br> |
 | *javascript, typescript, react.js, vite, tailwind css* | *node.js, express.js, postgresql, rest apis* | *git & github, docker, postman, linux, vs code* |
 
-## 🚀 things i've been building
+### 🚀 things i've been building
 
 i believe the best way to grow as a developer is by building real things.
 
-**1.** [![kickverse](https://img.shields.io/badge/kickverse-ecommerce_development-007ACC?style=flat-square)](https://kickverse.co.ke)  
+**1. kickverse | ecommerce development**
 a live ecommerce platform built for a footwear business. customers can explore products, browse collections, check pricing, and place orders directly through whatsapp. i continue working on improvements, maintenance, performance, and new features.
 
-**2.** [![afyalink](https://img.shields.io/badge/afyalink-hospital_management_system-007ACC?style=flat-square)](https://github.com/AdisonDevLabs/afyalink-hospital-management-system)  
+[![Kickverse Preview](https://image.thum.io/get/width/700/crop/400/https://kickverse.co.ke/)](https://kickverse.co.ke)
+[🔗 visit kickverse](https://kickverse.co.ke)
+
+<br>
+
+**2. afyalink | hospital management system**
 a hospital management system built with react, node.js, and postgresql, exploring how software can simplify healthcare administration and information management.
 
-**3.** [![cargo booking system](https://img.shields.io/badge/cargo_booking_system-web_booking-007ACC?style=flat-square)](#)  
+[![AfyaLink Preview](https://image.thum.io/get/width/700/crop/400/https://afyalink-hms.onrender.com/)](https://afyalink-hms.onrender.com/)
+[🔗 view repository](https://github.com/AdisonDevLabs/afyalink-hospital-management-system)
+
+<br>
+
+**3. cargo booking system**
 a web based booking application designed to streamline cargo booking and management workflows.
+[🔗 view repository](#)
 
-## 🧰 currently interested in
+---
 
-- building scalable full stack web applications
-- ecommerce and business automation
-- database design and backend architecture
-- creating reusable software products
-- improving application performance and user experience
-- exploring new ideas through hands on development
+### 📊 github activity
 
-## 🤝 let's connect
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdisonDevLabs&show_icons=true&theme=transparent&hide_border=true" alt="Adison's GitHub Stats" />
+</p>
+
+---
+
+### 🤝 let's connect
 
 i'm always interested in meeting fellow developers, collaborating on interesting projects, and connecting with businesses looking to build something useful.
 
-[![Portfolio](https://img.shields.io/badge/portfolio-adisoncheruiyot.me-333333?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adisoncheruiyot.me) [![Email](https://img.shields.io/badge/email-adisondevlabs@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adisondevlabs@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-adisondevlabs-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adisondevlabs)
+- "understand the problem, build a practical solution, and keep making it better."
+- open to collaboration on **ecommerce**, **saas platforms**, and **management tools**.
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adisondevlabs) [![Website](https://img.shields.io/badge/WEBSITE-1DA1F2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adisoncheruiyot.me) [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adisondevlabs@gmail.com)
+
+---
+
+<p align="center">
+  <i>"ideas are everywhere. i enjoy bringing them to life, one project at a time. 🚀" - adison</i>
+</p>
 
 > *ideas are everywhere. i enjoy bringing them to life, one project at a time. 🚀*
