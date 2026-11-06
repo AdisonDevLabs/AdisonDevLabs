@@ -1,4 +1,4 @@
-# Hey, I'm Adison Cheruiyot 👋
+# Hey, I'm Adison Kipsang Cheruiyot 👋
 
 ## Welcome to my corner of the internet.
 
@@ -23,24 +23,14 @@ I enjoy working across the full stack, from designing user interfaces to buildin
 
 I believe the best way to grow as a developer is by building real things.
 
-**1. Kickverse | Ecommerce Development**
-A live ecommerce platform built for a footwear business. Customers can explore products, browse collections, check pricing, and place orders directly through WhatsApp. I continue working on improvements, maintenance, performance, and new features.
-
-[![Kickverse Preview](https://github.com/user-attachments/assets/5b29f393-d93d-4cd8-95b3-7eb507789446)](https://kickverse.co.ke)
-[🔗 Visit Kickverse](https://kickverse.co.ke)
+| **1. Kickverse \| Ecommerce Development** | **2. AfyaLink \| Hospital Management System** |
+| :--- | :--- |
+| A live ecommerce platform built for a footwear business. Customers can explore products, browse collections, check pricing, and place orders directly through WhatsApp. I continue working on improvements, maintenance, performance, and new features.<br><br> [![Kickverse Preview](https://github.com/user-attachments/assets/5b29f393-d93d-4cd8-95b3-7eb507789446)](https://kickverse.co.ke)<br> [🔗 Visit Kickverse](https://kickverse.co.ke) | A hospital management system built with React, Node.js, and PostgreSQL, exploring how software can simplify healthcare administration and information management.<br><br> [![AfyaLink Preview](https://github.com/user-attachments/assets/f7e93989-4eeb-4950-b5fa-e6ddf90e7dee)](https://afyalink-hms.onrender.com/)<br> [🔗 View Repository](https://github.com/AdisonDevLabs/afyalink-hospital-management-system) |
 
 <br>
 
-**2. AfyaLink | Hospital Management System**
-A hospital management system built with React, Node.js, and PostgreSQL, exploring how software can simplify healthcare administration and information management.
-
-[![AfyaLink Preview](https://github.com/user-attachments/assets/f7e93989-4eeb-4950-b5fa-e6ddf90e7dee)](https://afyalink-hms.onrender.com/)
-[🔗 View Repository](https://github.com/AdisonDevLabs/afyalink-hospital-management-system)
-
-<br>
-
-**3. Cargo Booking System**
-A web based booking application designed to streamline cargo booking and management workflows.
+**3. Cargo Booking System**  
+A web based booking application designed to streamline cargo booking and management workflows.  
 [🔗 View Repository](#)
 
 ---
@@ -48,11 +38,11 @@ A web based booking application designed to streamline cargo booking and managem
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdisonDevLabs&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC" alt="Adison's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdisonDevLabs&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=007ACC&amp;icon_color=007ACC" alt="Adison's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdisonDevLabs&layout=compact&theme=transparent&hide_border=true&title_color=007ACC" alt="Adison's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdisonDevLabs&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=007ACC" alt="Adison's Top Languages" />
 </p>
 
 ---
@@ -71,5 +61,3 @@ I'm always interested in meeting fellow developers, collaborating on interesting
 <p align="center">
   <i>"Ideas are everywhere. I enjoy bringing them to life, one project at a time. 🚀" - Adison</i>
 </p>
-
-> *Ideas are everywhere. I enjoy bringing them to life, one project at a time. 🚀*
